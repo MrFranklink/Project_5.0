@@ -6,6 +6,6 @@ but if you dont want to do that then you can just go to this webiste  'https://a
 [Harshit Kaundal](https://twitter.com/HarshitKaundal)
 
 # License
-License This project is licensed under the MIT License - see the LICENSE.md file for details
+ This project is licensed under the MIT License - see the LICENSE.md file for details
 
 
